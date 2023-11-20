@@ -21,18 +21,3 @@ The dataset used for this project consists of images of various plant seedlings 
 
 The model architecture used for this project is a CNN with multiple convolutional layers, max pooling layers, batch normalization layers, and fully connected layers. The model is trained using the Adam optimizer and categorical cross-entropy loss.
 
-## Results
-
-After training the model on the dataset, the following results were obtained:
-
-- Training accuracy: [training accuracy]
-- Validation accuracy: [validation accuracy]
-- Test accuracy: [test accuracy]
-
-## Contributing
-
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
