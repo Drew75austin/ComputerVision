@@ -11,11 +11,8 @@ The dataset used for this project consists of images of various plant seedlings 
 1. Clone the repository:
 2. Install the required dependencies:
    
-4. Download the dataset and place it in the appropriate directory.
-
-5. Run the Jupyter Notebook:
-
-6. Open the `High_Code_Plant_Seedling_Classification_1.ipynb` notebook and follow the instructions to train and evaluate the model.
+4. Download the dataset and place it in the appropriate directory. not included as it's too much data)
+5. Open the `High_Code_Plant_Seedling_Classification_1.ipynb` notebook and follow the instructions to train and evaluate the model.
 
 ## Model Architecture
 
